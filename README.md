@@ -1,5 +1,5 @@
-## MHH_BTL_HK221
-## This is an education repo for mathematical modelling assignment.
+## CO2011_HK221_Assignment
+## This is an education repo for Mathematical Modelling assignment.
 ## Tasks:
 - Minh - I, II
 - Tiến - III
