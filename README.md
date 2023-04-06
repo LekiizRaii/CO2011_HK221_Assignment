@@ -1,4 +1,4 @@
-## MHH_BTL_HK333
+## MHH_BTL_HK221
 ## This is an education repo for mathematical modelling assignment.
 ## Tasks:
 - Minh - I, II
